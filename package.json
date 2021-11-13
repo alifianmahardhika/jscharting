@@ -8,11 +8,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "jscharting": "^3.1.0",
     "next": "12.0.3",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
+    "jscharting-react": "^1.2.1",
     "eslint": "7",
     "eslint-config-next": "12.0.3"
   }
